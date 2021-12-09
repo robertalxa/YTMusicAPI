@@ -1,0 +1,26 @@
+{
+  "name": "ytmusicapi",
+  "version": "1.0.0",
+  "main": "/src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertalxa/YTMusicAPI.git"
+  },
+  "author": "Robert Alexandre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robertalxa/YTMusicAPI/issues"
+  },
+  "homepage": "https://github.com/robertalxa/YTMusicAPI#readme",
+  "description": "",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^6.1.1"
+  }
+}
